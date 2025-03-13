@@ -61,6 +61,7 @@ In the **data pipeline**, the following transformations were applied:
 ### **Page 1: Company Overview**
 
 ![Power BI dashboard_1](assets/power_bi_first_page.gif)
+![Power BI dashboard_1_slicer](assets/dashboard_slicer.gif)
 
 Once the **data transformation** was completed, the dataset was imported into **Power BI** to create a **People Analytics Dashboard**.
 
