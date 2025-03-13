@@ -88,4 +88,4 @@ The **second page** of the dashboard focuses on **employee exits**, analyzing:
 ## **Conclusion**
 This project demonstrates the **end-to-end workflow** of using **Microsoft Fabric (Azure Data Factory)** and **Power BI** for **data ingestion, transformation, and visualization**.  
 
-Would love to hear your feedback! 🚀  
+Would love to hear your feedback!
