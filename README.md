@@ -1,7 +1,7 @@
 # Introduction
 
 This project contains only synthetic data and does not relate to any real person or company.  
-The purpose of this project is to test and showcase the basic functionality of **Microsoft Fabric (Azure Data Factory)** and **Power BI**. A data professional explored these tools over a span of **4-5 hours** to demonstrate their capabilities.  
+The purpose of this project is to test and showcase the basic functionality of **Microsoft Fabric (Azure Data Factory)** and **Power BI**. As a data professional, I explored these tools over a span of **4-5 hours** to demonstrate their capabilities.  
 
 Since the data was generated using AI, the figures may not always align logically.
 
@@ -22,13 +22,13 @@ The dataset includes columns such as:
 
 ---
 
-## **2. Creating a Data Lake**
+## **2. Creating a Data lakehouse**
 
-![Creating a data lake](assets/creating_datalake.gif)
+![Creating a data lakehouse](assets/creating_datalake.gif)
 
-Next, the generated `.csv` file was used to create a **data lake** in **Microsoft Fabric**. The data lake serves as a **centralized data repository** for the organization.  
+Next, the generated `.csv` file was used to create a **data lakehouse** in **Microsoft Fabric**. The data lakehouse serves as a **centralized data repository** for the organization.  
 
-> 📌 **Note:** In this example, only a single file is stored in the data lake. This file will later be used to create a database.
+> 📌 **Note:** In this example, only a single file is stored in the data lakehouse. This file will later be used to create a database.
 
 ---
 
@@ -60,7 +60,7 @@ In the **data pipeline**, the following transformations were applied:
 
 ### **Page 1: Company Overview**
 
-![Power BI dashboard_1](assets/powerbi_first_page.gif)
+![Power BI dashboard_1](assets/power_bi_first_page.gif)
 
 Once the **data transformation** was completed, the dataset was imported into **Power BI** to create a **People Analytics Dashboard**.
 
@@ -74,7 +74,7 @@ The **first page** provides a **company overview**, including:
 
 ### **Page 2: Exit Reasons & Performance Analysis**
 
-![Power BI dashboard_2](assets/powerbi_second_page.gif)
+![Power BI dashboard_2](assets/power_bi_second_page.gif)
 
 The **second page** of the dashboard focuses on **employee exits**, analyzing:  
 - **Exit reasons**  
